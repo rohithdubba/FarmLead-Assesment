@@ -9,17 +9,11 @@ The excel file "FarmLead_Testcase.xlsx" has all the Test Cases with the steps an
 
 AutomationTesting :
 
-The Zip File FarmLeadAssesment has the maven project with the automation code for th test cases Tc006&.
+The folder "FarmLead-Assesment" has the maven project with the automation code for the test cases Tc006&TC009.
 
-DownLoad the zipfile and extract the folder. 
+Clone the repository in the eclipse IDE 
 
-In the eclipse IDE 
-
-Go to File->
-
-Import as Existing Maven Project->
-
-Once the import is Done successfully maven project will be visible with the project structure in the Package Explorer of the Eclipse IDE.
+Once the import is Done successfully, maven project will be visible with the project structure in the Package Explorer of the Eclipse IDE.
 
 Go to Testng.xml and run as"TestngSuite".
 
