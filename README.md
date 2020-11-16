@@ -5,11 +5,11 @@ The testing activity  is categorized into Manual and Automation
 
 Manual Testing :
 
-The excel file "Testcase document" has all the Test Cases with the steps and the status .
+The excel file "FarmLead_Testcase.xlsx" has all the Test Cases with the steps and the status .
 
 AutomationTesting :
 
-The Zip File FarmLeadAssesment has the maven project with the automation code.
+The Zip File FarmLeadAssesment has the maven project with the automation code for th test cases Tc006&.
 
 DownLoad the zipfile and extract the folder. 
 
