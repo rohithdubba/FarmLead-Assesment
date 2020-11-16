@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="11908" started-at="2020-11-16T17:54:37Z" finished-at="2020-11-16T17:54:49Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="11908" started-at="2020-11-16T17:54:37Z" finished-at="2020-11-16T17:54:49Z">
+      <class name="Testcases.Combyne_loginTest">
+        <test-method status="PASS" signature="init()[pri:0, instance:Testcases.Combyne_loginTest@5e5792a0]" name="init" is-config="true" duration-ms="9309" started-at="2020-11-16T12:54:37Z" finished-at="2020-11-16T12:54:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="login_TC006_TC007()[pri:0, instance:Testcases.Combyne_loginTest@5e5792a0]" name="login_TC006_TC007" duration-ms="1663" started-at="2020-11-16T12:54:47Z" finished-at="2020-11-16T12:54:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login_TC006_TC007 -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:Testcases.Combyne_loginTest@5e5792a0]" name="teardown" is-config="true" duration-ms="858" started-at="2020-11-16T12:54:48Z" finished-at="2020-11-16T12:54:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- Testcases.Combyne_loginTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
