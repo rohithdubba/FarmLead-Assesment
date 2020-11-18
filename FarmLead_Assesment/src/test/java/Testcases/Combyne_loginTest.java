@@ -25,7 +25,7 @@ public class Combyne_loginTest extends TestBase{
 		//sharath bharath 
 		// uday aditi
 		//chinnu sammu
->>>>>>> branch 'main' of https://github.com/rohithdubba/FarmLead-Assesment.git
+
 		setup();
 	}
 	@Test//This testmethod covers the testcases TC006,TC007
