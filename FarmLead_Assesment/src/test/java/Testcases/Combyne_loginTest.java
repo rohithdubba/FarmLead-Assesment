@@ -22,6 +22,7 @@ public class Combyne_loginTest extends TestBase{
 	public void init() throws IOException
 	{
 		//sharath bharath
+		//chinnu sammu
 		setup();
 	}
 	@Test//This testmethod covers the testcases TC006,TC007
