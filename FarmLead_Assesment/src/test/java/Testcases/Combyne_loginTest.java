@@ -21,11 +21,15 @@ public class Combyne_loginTest extends TestBase{
 	@BeforeTest
 	public void init() throws IOException
 	{
+
 // committing to branch 
 		//sharath bharath 
 		// uday aditi
 		//chinnu sammu
 		// moving to branch
+
+
+
 		setup();
 	}
 	@Test//This testmethod covers the testcases TC006,TC007
