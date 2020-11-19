@@ -21,13 +21,11 @@ public class Combyne_loginTest extends TestBase{
 	@BeforeTest
 	public void init() throws IOException
 	{
-<<<<<<< HEAD
+// committing to branch 
 		//sharath bharath 
 		// uday aditi
-=======
-		//sharath bharath
 		//chinnu sammu
->>>>>>> branch 'main' of https://github.com/rohithdubba/FarmLead-Assesment.git
+		// moving to branch
 		setup();
 	}
 	@Test//This testmethod covers the testcases TC006,TC007
